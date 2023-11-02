@@ -2,4 +2,4 @@
 
 This page is Yusuf Kavçakar's page.
 
-The aim of the page is to submit assigments.
+You can reach Project Part 1 with this link.
