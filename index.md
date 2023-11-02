@@ -7,3 +7,5 @@ You can reach Project Part 1 with this link.
 C:\Users\Yusuf\Documents\GitHub\fall-23-YusufKAvcakar\Projectpart1report.pdf
 
 Projectpart1report.pdf
+
+xchjk
