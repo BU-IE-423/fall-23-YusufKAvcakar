@@ -20,5 +20,5 @@ You can reach our code with this link:
 [Jupyter Notebook Example HTML](part3.ipynb)
 
 You can reach Project Part 3 with this link:
-[Report with Code](IE423_Part_3.pdf)
+(IE423_Part_3.pdf)
 
