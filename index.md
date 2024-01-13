@@ -16,3 +16,9 @@ You can reach Project Part 2 with this link:
 You can reach our code with this link:
 [Jupyter Notebook Example HTML](part2.ipynb)
 
+You can reach our code with this link:
+[Jupyter Notebook Example HTML](part3.ipynb)
+
+You can reach Project Part 3 with this link:
+[Report with Code](IE423 Part 3.pdf)
+
